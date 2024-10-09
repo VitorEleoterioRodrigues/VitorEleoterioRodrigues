@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o VitorEleoterioRodrigues! 👋
 
-<!--
-**VitorEleoterioRodrigues/VitorEleoterioRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor Android Junior apaixonado por criar soluções inovadoras e experiências móveis incríveis usando Kotlin e arquiteturas modernas. Aqui você encontra mais sobre mim e meus projetos!
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Linguagens:** Kotlin, Java
+- **Frameworks:** Android SDK, Retrofit, Dagger
+- **Arquiteturas:** MVVM, MVP
+- **Ferramentas:** Android Studio, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos Destacados
+- [Desafio-Mobile-Ingresso-UOL](https://github.com/VitorEleoterioRodrigues/Desafio-Mobile-Ingresso-UOL)
+  - Aplicativo Android para consumo de API de filmes, utilizando MVVM e Kotlin.
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorEleoterioRodrigues&show_icons=true&theme=dark)
+
+## 🎓 Formação
+- **Curso**: Analise e Desenvolvimento de Sistemas
+- **Instituição**: Universidade Veiga de Almeida - UVA
+
+## 💬 Vamos Conectar!
+- **LinkedIn**: [https://www.linkedin.com/in/vitor-eleoterio/)
+
+
+
+E é isso aí! Fique à vontade para explorar meus projetos e entrar em contato. Adoro colaborar em novas ideias e projetos empolgantes!
+
