@@ -1,4 +1,5 @@
-# Olá, eu sou o VitorEleoterioRodrigues! 👋
+# Olá, eu sou o VitorEleoterioRodrigues! 👋🏿
+
 
 Sou um Desenvolvedor Android Junior apaixonado por criar soluções inovadoras e experiências móveis incríveis usando Kotlin e arquiteturas modernas. Aqui você encontra mais sobre mim e meus projetos!
 
